@@ -3,11 +3,11 @@
 <br>
 <p align="center">
   <img
-    src="https://img.shields.io/github/repo-size/coffice-g7/coffice?style=flat"
+    src="https://img.shields.io/github/repo-size/GradEX?style=flat"
     alt="Repository Size"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/t/coffice-g7/coffice?style=flat&logo=github"
+    src="https://img.shields.io/github/commit-activity/t/GradEX?style=flat&logo=github"
     alt="Commit Activity"
   />
   <a href="LICENSE.md"
